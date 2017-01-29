@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             x:Class="AndroidXamarin.SafeSeekbar">
+  <Frame OutlineColor="Transparent" HasShadow="False" VerticalOptions="Center" HorizontalOptions="Center" >
+  <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Orientation="Vertical" BackgroundColor="White" Spacing="15" WidthRequest="330">
+    <Label Text="How insecure you feel now?" FontAttributes="Bold" FontSize="20" TextColor="Black" HorizontalOptions="CenterAndExpand"/>
+    <Label Text="How dangerous this place"  FontSize="16" TextColor="Black" HorizontalOptions="CenterAndExpand"/>
+   <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Spacing="15">
+    <Image x:Name="laughID" Aspect="AspectFit" Source="laugh.png"/>
+    <Slider x:Name="feelID" Maximum="100.0" Minimum="0.0" HorizontalOptions="FillAndExpand" Value="50.0" VerticalOptions="CenterAndExpand"/>
+    <Image x:Name="cryID" Aspect="AspectFit" Source="cry.png"/>
+    </StackLayout>
+    <Button x:Name="reviewID" Text="Post Review" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" BackgroundColor="#FF8C00" WidthRequest="250"/>
+  </StackLayout>
+
+  </Frame>
+</pages:PopupPage>

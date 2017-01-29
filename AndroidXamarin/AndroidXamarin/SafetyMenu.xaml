@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AndroidXamarin.SafetyMenu">
+
+  <ContentPage.Padding>
+    <OnPlatform x:TypeArguments="Thickness"
+                iOS="20, 40, 20, 20"
+                Android="10, 10, 10, 10"
+                WinPhone="20, 20, 20, 20" />
+  </ContentPage.Padding>
+  <ContentPage.Content>
+    
+      <StackLayout VerticalOptions="FillAndExpand"
+                   HorizontalOptions="FillAndExpand"
+                   Orientation="Vertical"
+                   Spacing="15">
+
+          <Label Text="Citizen of the new millennium, participate" HorizontalOptions="FillAndExpand" FontSize="14" XAlign="Center" FontAttributes="Bold"/>
+     <ScrollView>
+        <Grid>
+          <Grid.RowDefinitions>
+            <RowDefinition Height="190" />
+            <RowDefinition Height="190" />
+          </Grid.RowDefinitions>
+          <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+          </Grid.ColumnDefinitions>
+          <Button x:Name="report1" Clicked="OnOpenPopupA" Text ="Assault/Theft" TextColor="White" FontAttributes="Bold" FontSize="16"  Grid.Row="0" Grid.Column="0" BackgroundColor="Red" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+          <Button x:Name="report2" Clicked="OnOpenPopupB" Text ="Users/Drug Sales" TextColor="White" FontAttributes="Bold" FontSize="16"   Grid.Row="0" Grid.Column="1" BackgroundColor="Red" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+          <Button x:Name="report3" Clicked="OnOpenPopupC" Text ="Fire Fight" TextColor="White" FontAttributes="Bold"  FontSize="16"    Grid.Row="1" Grid.Column="0" BackgroundColor="Red" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+          <Button x:Name="report4" Clicked="OnOpenPopupD" Text ="Suggestions Praise Or Other Problems" TextColor="White" FontAttributes="Bold" FontSize="16" Grid.Row="1" Grid.Column="1" BackgroundColor="Red" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+          </Grid> </ScrollView>
+         <Button x:Name="seekbarbutton" Clicked="OnOpenPopupE" Text="How insecure you feel now?" TextColor="White" BackgroundColor="Red" FontAttributes="Bold" FontSize="16" HorizontalOptions="FillAndExpand" />
+       </StackLayout>
+
+   
+  </ContentPage.Content>
+</ContentPage>

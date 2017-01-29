@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AndroidXamarin.SignUpCS">
+
+  <ContentPage.Padding>
+    <OnPlatform x:TypeArguments="Thickness"
+                iOS="20, 40, 20, 20"
+                Android="20, 20, 20, 20"
+                WinPhone="20, 20, 20, 20" />
+  </ContentPage.Padding>
+  <ContentPage.Content>
+    <ScrollView>
+    <StackLayout VerticalOptions="FillAndExpand"
+                 HorizontalOptions="FillAndExpand"
+                 Orientation="Vertical"
+                 Spacing="15">
+      <Entry x:Name="name" Placeholder="Name" />
+      <Picker x:Name="ColumnPicker" Grid.Row="1" SelectedIndex="{Binding Industry}" HorizontalOptions="FillAndExpand">
+        <Picker.Items>
+          <x:String>Male</x:String>
+          <x:String>Female</x:String>
+          </Picker.Items>
+        </Picker>
+      <Entry x:Name="age" Placeholder="Age"/>
+      <Entry x:Name="email" Placeholder="Email"/>
+      <Entry x:Name="password" IsPassword="True" Placeholder="Password"/>
+      <Entry x:Name="confirmpassword" IsPassword="True" Placeholder="Confirm Password"/>
+      <StackLayout Orientation="Horizontal"  HorizontalOptions="CenterAndExpand">
+         <Button x:Name="cancel" Text="Cancel" IsEnabled="True" HorizontalOptions="CenterAndExpand" WidthRequest="100"/> 
+          <Button x:Name="submit" Text="Submit" IsEnabled="True" HorizontalOptions="CenterAndExpand" WidthRequest="100"/>
+        </StackLayout>
+</StackLayout>
+
+      
+       
+      
+        
+     
+    </ScrollView>
+  </ContentPage.Content>
+</ContentPage>

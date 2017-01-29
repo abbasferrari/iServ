@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AndroidXamarin.EducationPage">
+  <ContentPage.Padding>
+    <OnPlatform x:TypeArguments="Thickness"
+                iOS="20, 40, 20, 20"
+                Android="10, 10, 10,10"
+                WinPhone="20, 20, 20, 20" />
+  </ContentPage.Padding>
+  <ContentPage.Content>
+
+    <StackLayout VerticalOptions="FillAndExpand"
+                 HorizontalOptions="FillAndExpand"
+                 Orientation="Vertical"
+                 Spacing="15">
+      <Label Text="Citizen of the new millennium, participate" HorizontalOptions="FillAndExpand" FontSize="14" XAlign="Center" FontAttributes="Italic"/>
+      <ScrollView>
+        <Grid>
+          <Grid.RowDefinitions>
+            <RowDefinition Height="190" />
+            <RowDefinition Height="190" />
+            <RowDefinition Height="190" />
+          </Grid.RowDefinitions>
+          <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150" />
+            <ColumnDefinition Width="150" />
+            <ColumnDefinition Width="150" />
+          </Grid.ColumnDefinitions>
+          <Button x:Name="report1" Text ="Quality Merenda" Clicked="OnOpenPopupA" TextColor="White" FontAttributes="Bold" FontSize="16" Grid.Row="0" Grid.Column="0" BackgroundColor="Green" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+          <Button x:Name="report2" Text ="Lack of Teacher / Staff" Clicked="OnOpenPopupB" TextColor="White" FontAttributes="Bold" FontSize="16"   Grid.Row="0" Grid.Column="1" BackgroundColor="Green" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+          <Button x:Name="report3" Text ="College violence" TextColor="White" Clicked="OnOpenPopupC" FontAttributes="Bold"  FontSize="16"    Grid.Row="1" Grid.Column="0" BackgroundColor="Green" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+          <Button x:Name="report4" Text ="Tell How your school can improve" TextColor="White" Clicked="OnOpenPopupD" FontAttributes="Bold" FontSize="16" Grid.Row="1" Grid.Column="1" BackgroundColor="Green" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+          <Button x:Name="report5" Text ="Bullying" TextColor="White" FontAttributes="Bold" Clicked="OnOpenPopupE" FontSize="16" Grid.Row="2" Grid.Column="0" BackgroundColor="Green" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+          <Button x:Name="report6" Text ="Suggestions, Compliments or other problems" TextColor="White" Clicked="OnOpenPopupF" FontAttributes="Bold" FontSize="16"   Grid.Row="2" Grid.Column="1" BackgroundColor="Green" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+        </Grid>
+      </ScrollView>
+      <Button x:Name="educationbarbutton" Text="Official, Express yourself" TextColor="White" Clicked="OnOpenPopupG" BackgroundColor="Green" FontSize="16" FontAttributes="Bold" HorizontalOptions="FillAndExpand" />
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

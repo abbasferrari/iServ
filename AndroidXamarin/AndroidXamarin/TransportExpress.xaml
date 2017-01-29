@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             x:Class="AndroidXamarin.TransportExpress">
+  <Frame OutlineColor="Transparent" HasShadow="False" VerticalOptions="Center" HorizontalOptions="Center" >
+    <StackLayout HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Orientation="Vertical" Spacing="15"  BackgroundColor="White" WidthRequest="340">
+      <Label Text="Official, express yourself!" FontAttributes="Bold" FontSize="20" TextColor="Gray" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+      <Label Text="write what you think is wrong with the transport system:"  FontSize="16" TextColor="Gray" HorizontalOptions="Center" WidthRequest="280"/>
+      <Entry  Placeholder="describe in a maximum of 140 characters" HeightRequest="100" PlaceholderColor="#dbdbdb" TextColor="Black"  HorizontalOptions="StartAndExpand" />
+      <Label Text="type Enter here the number / line of your bus" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" FontSize="16" TextColor="Gray"/>
+      <Editor HeightRequest="50" TextColor="Black"/>
+      <Button x:Name="reviewTraOneID" Text="Post Review" HorizontalOptions="CenterAndExpand" BackgroundColor="#FF8C00" WidthRequest="300" />
+    </StackLayout>
+
+  </Frame>
+</pages:PopupPage>

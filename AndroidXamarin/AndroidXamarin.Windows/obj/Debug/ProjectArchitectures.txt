@@ -1,0 +1,2 @@
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Windows\AndroidXamarin.Windows.csproj;neutral
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\AndroidXamarin.csproj;neutral

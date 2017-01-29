@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="AndroidXamarin.AndroidXamarin" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="15" />
+	<!-->application android:label="@string/AndroidXamarin" android:icon="@drawable/icon">
+		<meta-data android:name="com.google.android.geo.AIzaSyBs8O0AWIw5WclGxpNMWaBQTOGa7sha7Oc" android:value="AIzaSyBs8O0AWIw5WclGxpNMWaBQTOGa7sha7Oc" />
+		<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+	</application-->
+	<application />
+</manifest>

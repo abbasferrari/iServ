@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FERRARI</Machine>
+    <WindowsUser>Mohamed</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>85930d70-750c-41a6-9b95-03faaed4159c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Windows\obj\x64\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>78C27BEA576291AAD93E4DE6B1D633DB54B467853EF4B1F6A45197C4A5B50809</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>85930d70-750c-41a6-9b95-03faaed4159c_1.0.0.0_x64__nh7s0b45jarrj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>85930d70-750c-41a6-9b95-03faaed4159c_nh7s0b45jarrj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>85930d70-750c-41a6-9b95-03faaed4159c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=joaqu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Windows\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-30T07:27:44.756</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Windows\bin\x64\Debug\AndroidXamarin.Windows.exe">
+      <PackagePath>AndroidXamarin.Windows.exe</PackagePath>
+      <Modified>2016-05-30T07:31:55.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.dll">
+      <PackagePath>AndroidXamarin.dll</PackagePath>
+      <Modified>2016-05-30T07:27:34.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\packages\ExifLib.PCL.1.0.1\lib\portable-net45+sl50+win+WindowsPhoneApp81+wp80+Xamarin.iOS10+MonoAndroid10+MonoTouch10\ExifLib.dll">
+      <PackagePath>ExifLib.dll</PackagePath>
+      <Modified>2015-05-12T13:58:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\packages\Xamarin.Forms.2.2.0.43\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2016-05-27T05:32:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\packages\Xamarin.Forms.2.2.0.43\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2016-05-27T05:32:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\packages\Xamarin.Forms.2.2.0.43\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+      <Modified>2016-05-27T05:32:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\packages\Xamarin.Forms.2.2.0.43\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+      <Modified>2016-05-27T05:32:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\packages\Xamarin.Forms.2.2.0.43\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2016-05-27T05:32:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Windows\a.png">
+      <PackagePath>a.png</PackagePath>
+      <Modified>2016-05-27T05:52:04.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-25T07:23:43.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-25T07:23:43.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-25T07:23:43.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-25T07:23:43.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Windows\b.png">
+      <PackagePath>b.png</PackagePath>
+      <Modified>2016-05-27T05:52:08.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Windows\c.png">
+      <PackagePath>c.png</PackagePath>
+      <Modified>2016-05-27T05:52:11.213</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Windows\d.png">
+      <PackagePath>d.png</PackagePath>
+      <Modified>2016-05-27T05:52:13.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Windows\fb_checked.png">
+      <PackagePath>fb_checked.png</PackagePath>
+      <Modified>2016-05-27T05:19:23.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\EMUDE.png">
+      <PackagePath>AndroidXamarin\EMUDE.png</PackagePath>
+      <Modified>2016-05-27T02:10:14.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Windows\bin\x64\Debug\AndroidXamarin.Windows.xr.xml">
+      <PackagePath>AndroidXamarin.Windows.xr.xml</PackagePath>
+      <Modified>2016-05-30T02:45:24.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Windows\bin\x64\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-05-30T07:27:41.299</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Windows\bin\x64\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-05-30T07:31:55.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\MainPage.xml">
+      <PackagePath>AndroidXamarin\MainPage.xml</PackagePath>
+      <Modified>2016-05-30T01:58:08.566</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\packages\Xamarin.Forms.2.2.0.43\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+      <Modified>2016-05-27T05:32:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\packages\Xamarin.Forms.2.2.0.43\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+      <Modified>2016-05-27T05:32:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\packages\Xamarin.Forms.2.2.0.43\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+      <Modified>2016-05-27T05:32:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\packages\Xamarin.Forms.2.2.0.43\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf</PackagePath>
+      <Modified>2016-05-27T05:32:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\packages\Xamarin.Forms.2.2.0.43\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+      <Modified>2016-05-27T05:32:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\packages\Xamarin.Forms.2.2.0.43\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+      <Modified>2016-05-27T05:32:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\packages\Xamarin.Forms.2.2.0.43\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+      <Modified>2016-05-27T05:32:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Windows\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-30T07:27:43.690</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

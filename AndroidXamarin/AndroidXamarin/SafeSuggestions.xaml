@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             x:Class="AndroidXamarin.SafeSuggestions">
+  <Frame OutlineColor="Transparent" HasShadow="False" VerticalOptions="Center" HorizontalOptions="Center" >
+    <ScrollView>
+      <StackLayout VerticalOptions="Center" MinimumHeightRequest="100" MinimumWidthRequest="100" HorizontalOptions="Center" BackgroundColor="White">
+        <!--ActivityIndicator Color="Red" IsRunning="true"/-->
+        <Label x:Name="Title1"  Text="How insecure do you feel?" FontAttributes="Bold" Font="16" XAlign="Center" />
+        <Label x:Name="Title2" Text="Mertifique How Dangerous at this Place?" XAlign="Center" Font="14"/>
+        <Label x:Name="Title3" Text="You are Reporting" XAlign="Center" Font="14"/>
+        <Label x:Name="Title4" Text="SUGGESTIONS, PRAISE ON OTHER PROBLEMS" TextColor="#FF8C00" XAlign="Center" Font="14"/>
+        <StackLayout Orientation="Vertical">
+          <Editor x:Name="posting" Text="Describe Your Report With Maximum 140 Characters" HeightRequest="100"  />
+          <Image x:Name="Camera" Source="camera.png" Aspect="AspectFit" VerticalOptions="Center" HorizontalOptions="End" HeightRequest="30" WidthRequest="30"/>
+        </StackLayout>
+        <!--Slider x:Name="Slider" Minimum="0" Maximum="10"/-->
+        <StackLayout Orientation="Vertical">
+          <Entry x:Name="location" Placeholder="Location" HorizontalOptions="FillAndExpand"  />
+        </StackLayout>
+        <Label x:Name="Title5" Text="Select Social Network to Share your Report Story" XAlign="Center"/>
+        <StackLayout Orientation="Horizontal" MinimumHeightRequest="50"  HorizontalOptions="CenterAndExpand" VerticalOptions="Center">
+          <Image x:Name="fb" Aspect="AspectFit" Source="fb_unchecked.png" StyleClass="Thumbnail" HorizontalOptions="Center"/>
+          <Image x:Name="twitter" Aspect="AspectFit" Source="tweet_unchecked.png" HorizontalOptions="Center" />
+          <Image x:Name="wa" Aspect="AspectFit" Source="wa_unchecked.png" HorizontalOptions="Center" />
+          <Image x:Name="gplus" Aspect="AspectFit" Source="google_unchecked.png" HorizontalOptions="Center" />
+        </StackLayout>
+        <Label x:Name="Title6" Text="Make a Police Report " XAlign="Center"/>
+        <Label x:Name="policereport" Text="CLICK HERE" TextColor="Blue" FontAttributes="Bold" XAlign="Center"/>
+
+
+        <StackLayout Orientation="Horizontal">
+          <Button x:Name="cancel"  Text="Cancel" TextColor="Black" BackgroundColor="#E6E6E6" HorizontalOptions="FillAndExpand"  IsEnabled="True"  />
+          <Button x:Name="send" Text="Send" TextColor="White" BackgroundColor="#FF9C00" HorizontalOptions="FillAndExpand" IsEnabled="True" />
+        </StackLayout>
+
+      </StackLayout>
+    </ScrollView>
+  </Frame>
+</pages:PopupPage>

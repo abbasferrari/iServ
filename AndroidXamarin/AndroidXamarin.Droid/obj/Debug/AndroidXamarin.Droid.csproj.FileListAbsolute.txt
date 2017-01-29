@@ -1,0 +1,108 @@
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\AndroidXamarin.Droid.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\AndroidXamarin.Droid.pdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\AndroidXamarin.Droid.apk
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\AndroidXamarin.Droid-Signed.apk
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\AndroidXamarin.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\AndroidXamarin.pdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\AndroidXamarin.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\AndroidXamarin.Droid.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\AndroidXamarin.Droid.pdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\android\bin\AndroidXamarin.Droid.apk
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\fb_checked.png
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\a.png
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\b.png
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\c.png
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\d.png
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\R.cs.flag
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\uploadflags.txt
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\AndroidXamarin.dll.mdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\AndroidXamarin.Droid.dll.mdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\AndroidXamarin.Droid.dll.mdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\AndroidXamarin.Droid.dll.config
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\AndroidXamarin.Droid.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\AndroidXamarin.Droid.pdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\AndroidXamarin.AndroidXamarin.apk
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\AndroidXamarin.AndroidXamarin-Signed.apk
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\AndroidXamarin.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\ExifLib.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Rg.Plugins.Popup.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Rg.Plugins.Popup.Droid.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\AndroidXamarin.pdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\AndroidXamarin.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\AndroidXamarin.Droid.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\AndroidXamarin.Droid.pdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\android\bin\AndroidXamarin.AndroidXamarin.apk
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\fb_checked.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\a.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\b.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\c.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\d.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\loudergrey.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\arrow_left.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\fb_unchecked.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\google_checked.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\google_unchecked.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\tweet_checked.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\tweet_unchecked.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\wa_checked.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\wa_unchecked.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\R.cs.flag
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\uploadflags.txt
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\camera.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\map-grey.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\res\drawable\loc_yellow.png
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\AndroidXamarin.dll.mdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\obj\Debug\AndroidXamarin.Droid.dll.mdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin.Droid\bin\Debug\AndroidXamarin.Droid.dll.mdb

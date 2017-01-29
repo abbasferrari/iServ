@@ -1,0 +1,91 @@
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.pdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Mono.Android.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Mono.Android.xml
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.MainPage.xaml.g.cs
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.ForgetPassword.xaml.g.cs
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.SignUpCS.xaml.g.cs
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.MenuPage.xaml.g.cs
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.SafetyMenu.xaml.g.cs
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.dll
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.pdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.dll.mdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.dll.mdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.dll.config
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.pdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\ExifLib.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Mono.Android.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Rg.Plugins.Popup.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Mono.Android.xml
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.MainPage.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.ForgetPassword.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.SignUpCS.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.MenuPage.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.SafetyMenu.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.PopUpPage.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.TabbedBarPage.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.HealthPage.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.TransportPage.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.EducationPage.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.MapPage.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.TabbedPageTwo.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.TabbedPageThree.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.TabbedPageFour.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.TabbedPageFive.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.SettingsPage.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.BusPage.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.BoatPage.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.SubwayPage.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.TabbedPageSix.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.TabbedPageSeven.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.LocationPage.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.AssaultTheft.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.UsersOrDrugSales.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.FireFight.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.SafeSuggestions.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.SafeSeekbar.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.Queue.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.ZikaOrDengue.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.LackOfMaterials.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.YouAttended.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.HealthSuggestions.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.dll
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.pdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.TransportSuggestions.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.EducationSuggestions.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.SexualAbuse.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.Assault.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.Crowded.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.OverFlow.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.RecklessDriverOrNotStoppingAtPoint.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.RecklessDriver.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.QualityMeals.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.LackOfStaff.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.CollegeViolence.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.ImproveYourSchool.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.Bullying.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.HealthExpress.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.EducationExpress.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.TransportExpress.xaml.g.cs
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.dll.mdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.dll.mdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\obj\Debug\AndroidXamarin.dll.mdb
+C:\Users\Mohamed\OneDrive\AndroidXamarin\AndroidXamarin\AndroidXamarin\bin\Debug\AndroidXamarin.dll.mdb

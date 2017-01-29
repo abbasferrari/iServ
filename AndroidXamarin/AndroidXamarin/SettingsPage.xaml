@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AndroidXamarin.SettingsPage"
+             Title ="Setting"
+             Icon ="32.png">
+   <ContentPage.Padding>
+    <OnPlatform x:TypeArguments="Thickness"
+                iOS="20, 40, 20, 20"
+                Android="10, 10, 10, 10"
+                WinPhone="20, 20, 20, 20" />
+  </ContentPage.Padding>
+  <ContentPage.Content>
+      <StackLayout VerticalOptions="FillAndExpand"
+                   HorizontalOptions="FillAndExpand"
+                   Orientation="Vertical"
+                   Spacing="15" > <!--Padding="1, 20, 0, 0" -->
+        <!--StackLayout VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand" Orientation="Vertical" BackgroundColor="White">
+          <Label TextColor="#FFA500" FontSize = "32" Text="Settings"  HorizontalOptions="Center" BackgroundColor="White"/>
+        </StackLayout-->
+        <Button x:Name="addPhotoID" Text="Click to Edit" TextColor="Black" FontSize = "16" FontAttributes="Bold" HorizontalOptions="FillAndExpand" BackgroundColor="#d3d3d3"/>
+       
+        <StackLayout VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand" Orientation="Vertical" BackgroundColor="White" Spacing="15" >
+              <Label  TextColor="#696969" FontAttributes="Bold" FontSize = "14" Text="Account Settings"   HorizontalOptions="Start"/>
+      
+            <StackLayout VerticalOptions="StartAndExpand" Spacing="15"  HorizontalOptions="FillAndExpand" Orientation="Horizontal" BackgroundColor="White">
+            <Label x:Name="accountsettings"   TextColor="Gray" FontSize = "14" Text="Password, Personal data, Addresses, Cards and Touch ID"  HorizontalOptions="Start"/>
+            <Image x:Name="accountid"  Aspect="AspectFit" HeightRequest="20" WidthRequest="20" Source="arrow_left.png" />
+           
+     
+          </StackLayout>
+        <StackLayout VerticalOptions="StartAndExpand" Spacing="20"  HorizontalOptions="FillAndExpand" Orientation="Vertical" BackgroundColor="#f9f9f9" >
+          <Label Text="CONTROLS" TextColor="#696969" FontSize = "14" HorizontalOptions="Start" FontAttributes="Bold"/>
+        </StackLayout>
+          <StackLayout VerticalOptions="StartAndExpand" Spacing="15"  HorizontalOptions="FillAndExpand" Orientation="Horizontal" BackgroundColor="White">
+              <Label Text="Geolocation" TextColor="#696969" FontSize = "14" HorizontalOptions="Start" FontAttributes="Bold"/>
+        <Switch IsToggled = "True" HorizontalOptions = "EndAndExpand" IsEnabled="True" />
+        </StackLayout>
+        <StackLayout VerticalOptions="StartAndExpand" Spacing="15"  HorizontalOptions="FillAndExpand" Orientation="Horizontal" BackgroundColor="White">
+                    <Label Text="Notification" TextColor="#696969" FontSize = "14" HorizontalOptions="Start" FontAttributes="Bold"/>
+          <Switch IsToggled = "True" HorizontalOptions = "EndAndExpand"  IsEnabled="True" />
+        </StackLayout>
+        </StackLayout>
+         
+     <!--StackLayout VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand" Orientation="Horizontal" BackgroundColor="White">
+         <StackLayout  VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Orientation="Vertical">
+           <Image x:Name="globeID"  Aspect="AspectFit" Source="globe-grey.png" />
+           <Label Text="Now" TextColor="#696969" HorizontalOptions="CenterAndExpand" FontSize="20"></Label>
+         </StackLayout>
+        <StackLayout  VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand" Orientation="Vertical">
+           <Image x:Name="mapID"  Aspect="AspectFit" Source="map-grey.png" />
+           <Label Text="Map" TextColor="#696969" HorizontalOptions="CenterAndExpand" FontSize="20"></Label>
+        </StackLayout>
+        
+         <StackLayout  VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand" Orientation="Vertical">
+           <Image x:Name="louderID"  Aspect="AspectFit" Source="louder-grey.png" />
+           <Label Text="To Report" TextColor="#696969" HorizontalOptions="CenterAndExpand" FontSize="20"></Label>
+         </StackLayout>
+         
+       <StackLayout  VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand" Orientation="Vertical">
+         <Image x:Name="settingsID"  Aspect="AspectFit" Source="settings-grey.png" />
+         <Label Text="Settings" TextColor="#696969" HorizontalOptions="CenterAndExpand" FontSize="18"></Label>
+       </StackLayout>
+      </StackLayout-->
+     </StackLayout>  
+    
+  </ContentPage.Content>
+</ContentPage>

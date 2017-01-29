@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AndroidXamarin.MenuPage"
+             xmlns:local="clr-namespace:TabbedPageDemo;assembly=TabbedPageDemo"
+             Title = "Menu">
+ 
+ 
+  <ContentPage.Padding>
+    <OnPlatform x:TypeArguments="Thickness"
+                iOS="20, 40, 20, 20"
+                Android="10, 10, 10,10"
+                WinPhone="20, 20, 20, 20" />
+  </ContentPage.Padding>
+ <ContentPage.Content>
+  
+    <StackLayout VerticalOptions="FillAndExpand"
+                 HorizontalOptions="FillAndExpand"
+                 Orientation="Vertical"
+                 Spacing="15">
+      <Label Text="Citizen of the new millennium, participate" HorizontalOptions="FillAndExpand" FontSize="14" XAlign="Center" FontAttributes="Bold"/>
+  <ScrollView>  <Grid>
+  <Grid.RowDefinitions>
+    <RowDefinition Height="190" />
+    <RowDefinition Height="190" />
+  </Grid.RowDefinitions>
+  <Grid.ColumnDefinitions>
+    <ColumnDefinition Width="*" />
+    <ColumnDefinition Width="*" />
+  </Grid.ColumnDefinitions>
+    <Image x:Name="img1"  Aspect="AspectFit"  Source="a.png" Grid.Row="0" Grid.Column="0" BackgroundColor="Red" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"></Image>  
+    <Label Text ="SAFTEY" FontAttributes="Bold" TextColor="White" YAlign="End" XAlign="Center" Grid.Row ="0" Grid.Column="0"/>
+    <Image x:Name="img2" Aspect="AspectFit"  Source="b.png" Grid.Row="0" Grid.Column="1" BackgroundColor="Blue" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"></Image>  
+    <Label Text ="HEALTH" FontAttributes="Bold" TextColor="White" YAlign="End" XAlign="Center" Grid.Row ="0" Grid.Column="1"/>
+    <Image x:Name="img3" Aspect="AspectFit"  Source="c.png" Grid.Row="1" Grid.Column="0" BackgroundColor="Purple" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"></Image>  
+    <Label Text ="TRANSPORT" FontAttributes="Bold" TextColor="White" YAlign="End" XAlign="Center" Grid.Row ="1" Grid.Column="0"/>
+    <Image x:Name="img4" Aspect="AspectFit"  Source="d.png" Grid.Row="1" Grid.Column="1" BackgroundColor="Green" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"></Image>     
+    <Label Text ="EDUCATION" FontAttributes="Bold" TextColor="White" YAlign="End" XAlign="Center" Grid.Row ="1" Grid.Column="1"/>
+    </Grid></ScrollView>
+    </StackLayout>
+     
+  </ContentPage.Content>
+</ContentPage>
